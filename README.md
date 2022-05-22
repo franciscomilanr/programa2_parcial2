@@ -1,8 +1,8 @@
 # programa2_parcial2
 
 
-<b>Autor:</b> Franciscomilan, <b>Fecha:</b> 24/03/2022 <ul>
- <b>Escuela:</b> Universidad uvm, <b>Materia:</b> Programacion estructurada <ul>
+<b>Autor:</b> Franciscomilan, <b>Fecha:</b> 24/03/2022 <br>
+ <b>Escuela:</b> Universidad uvm, <b>Materia:</b> Programacion estructurada <br>
  <b>Profesor:</b> Armando Cruz, <b>Ciclo:</b> 01/2022
  <br>
  <li><b> En este programa se muestra el uso de: </b></li>
